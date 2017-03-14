@@ -1,0 +1,9 @@
+VARIABLE - They are named containers where you can place any data and then refer to it by naming the said container. To use a variable, it must be declared with the keyword "var."
+
+STRINGS - These are text (and space) values, anything that is not numerical. Including numbers/integers, they must be declared with single quotes (' '). For example, 'Hello you!' and '707 lucky days'.
+
+FUNCTIONS - Functions are procedures/set of statements that performs a task on values. You have to call a function to instruct Javascript with what you want to do with your defined values.
+
+if STATEMENTS - "if... else" statements are conditional statements you need to call when there are certain cases that needed to be decided, and that you have to call it so the program can make the right decisions and perform the said actions.
+
+BOOLEAN VALUES - "True" or "False" values.
